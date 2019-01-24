@@ -1,2 +1,2 @@
 # Data-Science-JHU
-Codes in Coursera's Data Science Course by Johns Hopkins University
+Programming assignments in Coursera's Data Science Courses by Johns Hopkins University
