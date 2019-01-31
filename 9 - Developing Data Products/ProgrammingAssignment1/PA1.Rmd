@@ -1,0 +1,8 @@
+## Jan 31, 2019
+```{r, echo=FALSE}
+library(leaflet)
+my_map <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat = 34.052235, lng = -118.243683, popup = "Los Angeles")
+my_map  # Print the map
+```   

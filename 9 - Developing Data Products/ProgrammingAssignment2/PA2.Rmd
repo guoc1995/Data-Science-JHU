@@ -1,0 +1,5 @@
+## Jan 31, 2019
+```{r, echo=FALSE}
+library(plotly)
+plot_ly(z = ~volcano)
+```   
