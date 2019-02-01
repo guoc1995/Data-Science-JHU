@@ -1,0 +1,19 @@
+### Shiny App
+This Shiny App is for simulating rnorm distribution
+
+About author: [Guo Chen](https://www.linkedin.com/in/guo-chen/)
+
+### Shiny
+Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards. You can also extend your Shiny apps with CSS themes, htmlwidgets, and JavaScript actions.
+
+### Introduction
+Users can input a number and the app simulats the rnorm distribution
+
+### Deploy on ShinyApp.io
+App Link: [https://guoc1995.shinyapps.io/ShinyApp/](https://guoc1995.shinyapps.io/ShinyApp/)
+
+### Source Code
+GitHub: [https://github.com/guoc1995/Shiny-App](https://github.com/guoc1995/Shiny-App)
+
+
+

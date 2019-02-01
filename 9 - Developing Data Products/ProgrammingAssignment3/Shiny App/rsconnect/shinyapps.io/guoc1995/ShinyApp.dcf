@@ -1,0 +1,13 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: guoc1995
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 681101
+bundleId: 1849311
+url: https://guoc1995.shinyapps.io/ShinyApp/
+when: 1548980281.0817
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/.DS_Store
